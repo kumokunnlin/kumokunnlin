@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/linki1010111)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/linki1010111)](https://leetcode.com/linki1010111/)
 
 <!--
 **kumokunnlin/kumokunnlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
